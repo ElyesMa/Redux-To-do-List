@@ -1,0 +1,19 @@
+.App {
+  background-color: WHITE;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+  font-size: 30px;
+  color: BLACK;
+  text-align: center;
+  margin: 0;
+}
+
+
+.done{
+  color: green;
+  text-decoration: line-through;
+}
